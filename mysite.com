@@ -2,7 +2,6 @@
 server {
 	listen 80;
 
-
 	root /var/www/mysite.com/publick_html;
 
 	# Add index.php to the list if you are using PHP
